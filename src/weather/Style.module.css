@@ -1,0 +1,60 @@
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.heading{
+    color: #fff;
+    text-align: center;
+}
+
+.labelContainer{
+    padding: 4rem;
+    border-radius: 0.5rem;
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.inputField{
+    width: 100%;
+    display: flex;
+    padding: 0.5rem 0.7rem;
+    border-radius: 0.4rem;
+    border: none;
+    font-size: 15px;
+    outline: none;
+}
+
+.searchBtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.2rem;
+}
+
+.btn{
+    padding: 0.5rem 1rem;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 0.4rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+.showingContainer{
+    border-radius: 0.5rem;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.para{
+    border-bottom: 1px solid white;
+    padding: 0 1rem;
+}
